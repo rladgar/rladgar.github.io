@@ -2353,10 +2353,11 @@ html.no-csstransitions .home-content__main {
  * ------------------------------------------------------------------- */
 
 .s-works {
+
     padding-top: 15rem;
     padding-bottom: 15.6rem;
     background-color: #f1f1f1;
-    position: relative;
+    position:relative;
 }
 
 
@@ -2865,6 +2866,11 @@ html.no-csstransitions .home-content__main {
     position: relative;
 }
 
+.s-pdf {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
 /* ===================================================================
@@ -3041,7 +3047,7 @@ html.no-csstransitions .home-content__main {
 
 .s-contact {
     background-color: #151515;
-    background-image: url("../images/contact-bg.jpg");
+    background-image: url("../images/fondo.jpg");
     background-repeat: no-repeat;
     background-position: center, center;
     padding-top: 13.2rem;
