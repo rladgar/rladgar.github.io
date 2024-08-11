@@ -4147,7 +4147,8 @@ article.blog-single .blog-content {
     gap: 20px;
     padding: 50px;
     scrollbar-width: thin;
-    scrollbar-color: #888 #f4f4f4;
+    scrollbar-color: #ffffff #862121;
+    
 }
 
 .projects-container::-webkit-scrollbar {
