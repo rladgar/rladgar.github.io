@@ -328,11 +328,8 @@ mark {
 }
 
 hr {
-    border: solid rgba(0, 0, 0, 0.1);
-    border-width: 1px 0 0;
-    clear: both;
-    margin: 2.4rem 0 1.5rem;
-    height: 0;
+    
+    border: 0; height: 12px; box-shadow: inset 0 12px 12px -12px #862121;
 }
 
 
