@@ -1776,6 +1776,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     
     border:3px solid #862121;
     border-radius:22px;
+    margin-bottom: 40px;
 }
 
 .home-content h3::before {
