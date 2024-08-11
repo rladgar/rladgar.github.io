@@ -4155,7 +4155,7 @@ article.blog-single .blog-content {
 .project {
     flex: 0 0 auto;
     width: 300px;
-    background-color: white;
+    background-color: aliceblue;
     border-radius: 10px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
     overflow: hidden;
@@ -4166,23 +4166,26 @@ article.blog-single .blog-content {
 
 .project img {
     width: 100%;
-    height: 200px;
+    height: 300px;
     object-fit: cover;
 }
 
 .project-title {
-    padding: 15px;
+    padding: 8px;
     font-size: 1em;
+    font-family:sans-serif;
     font-weight: bold;
+    border-radius: 2px;
     background-color: #708090; /* Gris azulado */
-    background: #708090; 
+    background: aliceblue; 
     color: #000000;
+    
 }
 
 body {
     margin: 0;
     background: black;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:sans-serif;
 }
 
 canvas {
